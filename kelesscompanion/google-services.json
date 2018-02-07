@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "749145494791",
+    "firebase_url": "https://keyless-rogerxue.firebaseio.com",
+    "project_id": "keyless-rogerxue",
+    "storage_bucket": "keyless-rogerxue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749145494791:android:58453f4793d748a0",
+        "android_client_info": {
+          "package_name": "com.rogerxue.iot.keyless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749145494791-468ljj7u7ii3caanbb8o8a51g7flp757.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu93JtB0hpYAQn4SL399AmWtWUgLZzn9I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749145494791:android:8007ea698f40b7f7",
+        "android_client_info": {
+          "package_name": "com.rogerxue.iot.keyless.companion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749145494791-468ljj7u7ii3caanbb8o8a51g7flp757.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu93JtB0hpYAQn4SL399AmWtWUgLZzn9I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
